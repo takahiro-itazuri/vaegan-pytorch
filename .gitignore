@@ -1,0 +1,6 @@
+/data/*
+/logs/*
+__pycache__
+.vscode
+!/data/get_drive_file.py
+!.gitkeep
